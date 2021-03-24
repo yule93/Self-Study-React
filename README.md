@@ -6,8 +6,11 @@
 ### 0. React란?
 Javascript Framework 중 하나로, 가장 큰 특징은 문서 내 변한 부분만 Rerandering 한다는 것.
 
-### 1.기본 명령어
+### 1. 내가 쓰는 기본 명령어
 
 ```npx create-react-app (만들 디렉토리 이름)```
 ```yarn add (다운받을 오픈소스 모듈 이름)```
 ```npm install (다운받을 오픈소스 모듈 이름)```
+```code .```
+
+이외 ```yarn update``` 등과 같은 명령어도 가끔 쓴다.

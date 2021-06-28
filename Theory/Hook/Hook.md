@@ -10,7 +10,7 @@
  - useContext
  - ….
 
-### Hook 정의 방법(선언 방법)
+### Hook 정의 틀(선언 방법)
 const useOOO(Hook 이름) = (함수에 전달할 변수들. 객체 타입으로 전달해도 ok) => {
     const [원하는 변수 명(ex: trigger), 변수를 세팅하는 함수(setTrigger)] = useState({
         param1: (사용할 특정 값),
